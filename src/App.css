@@ -58,10 +58,6 @@
   height: 100%;
 }
 
-.card-img-top{
-  height: 150px;
-}
-
 .section-content-container {
   display: flex;
   flex-direction: column;

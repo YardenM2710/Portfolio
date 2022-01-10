@@ -1,7 +1,5 @@
 import React, { useContext } from 'react';
-import {
-  Button, Card, Badge, Col,
-} from 'react-bootstrap';
+import { Button, Card, Badge, Col } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import { ThemeContext } from 'styled-components';
 import ReactMarkdown from 'react-markdown';
