@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/webit.png",
+            "image" : "/images/projects/webit.png",
             "title": "Webit - Platform for building websites",
             "bodyText": "- Webit, Website inspired by  WIX, made in Vue.JS\n - Create your own website within minutes with fun features as Web Sockets and D&D",
             "links": [
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "image" : "images/projects/mr-bitcoin.png",
+            "image" : "/images/projects/mr-bitcoin.png",
             "title": "Mr.Bitcoin - Bitcoin share App",
             "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
             "links": [
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "image" : "images/projects/appsus.png",
+            "image" : "/images/projects/appsus.png",
             "title": "Appsus - Mail & Notes App",
             "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
             "links": [
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "image" : "images/projects/meme-generator.png",
+            "image" : "/images/projects/meme-generator.png",
             "title": "Meme Generator App",
             "bodyText": "- Meme Generator app made in vanilla JavaScript.",
             "links": [
