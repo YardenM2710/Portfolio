@@ -1,0 +1,84 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/webit.png",
+            "title": "Webit - Platform for building websites",
+            "bodyText": "- Webit, Website inspired by  WIX, made in Vue.JS\n - Create your own website within minutes with fun features as Web Sockets and D&D",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rotembub/webit"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://ca-webit.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "Vue.JS",
+                "WIX",
+                "JavaScript",
+                "NodeJS"
+            ]
+        },
+        {
+            "image" : "images/projects/mr-bitcoin.png",
+            "title": "Mr.Bitcoin - Bitcoin share App",
+            "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/YardenM2710/mr-bitcoin-react"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yardenm2710.github.io/mr-bitcoin-react/#/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "ChartJS"
+            ]
+        },
+        {
+            "image" : "images/projects/appsus.png",
+            "title": "Appsus - Mail & Notes App",
+            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/noanissim/Appsus"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://noanissim.github.io/Appsus/#/keep"
+                }
+            ],
+            "tags" : [
+                "Vue.JS",
+                "Javascript"
+            ]
+        },
+        {
+            "image" : "images/projects/meme-generator.png",
+            "title": "Meme Generator App",
+            "bodyText": "- Meme Generator app made in vanilla JavaScript.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/YardenM2710/Meme-genrator-sprint2"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yardenm2710.github.io/Meme-genrator-sprint2/#"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "Canvas"
+            ]
+        }
+    ]
+}
