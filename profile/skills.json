@@ -6,15 +6,15 @@
             "items" : [
      
                 {
-                    "icon": "./images/skills/js.png",
+                    "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "./images/skills/mongo.png",
+                    "icon": "images/skills/mongo.png",
                     "title": "Mongo-DB"
                 },
                 {
-                    "icon": "./images/skills/mysql.png",
+                    "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
         ]},
@@ -23,15 +23,15 @@
             "items" : [
            
                 {
-                    "icon": "./images/skills/react.png",
+                    "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "./images/skills/vue.png",
+                    "icon": "images/skills/vue.png",
                     "title": "Vue.JS"
                 },
                 {
-                    "icon": "./images/skills/nodejs.png",
+                    "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
                 }
             ]
@@ -40,7 +40,7 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "./images/skills/git.png",
+                    "icon": "images/skills/git.png",
                     "title": "Git"
                 }
             ]
