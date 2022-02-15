@@ -61,6 +61,25 @@
             ]
         },
         {
+            "image" : "images/projects/Loop-Machine.png",
+            "title": "Loop-Machine - Audio Loop application",
+            "bodyText": "- A fun audio loop application that allows you to Jingle-Mingle threw some sounds and even record by yourself",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/YardenM2710/Loop-Machine-Moveo"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yardenm2710.github.io/Loop-Machine-Moveo/#/"
+                }
+            ],
+            "tags" : [
+                "React.JS",
+                "Javascript"
+            ]
+        },
+        {
             "image" : "images/projects/meme-generator.png",
             "title": "Meme Generator App",
             "bodyText": "- Meme Generator app made in vanilla JavaScript.",
