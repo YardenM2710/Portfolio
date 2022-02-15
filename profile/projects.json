@@ -44,7 +44,7 @@
         {
             "image" : "images/projects/appsus.png",
             "title": "Appsus - Mail & Notes App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "bodyText": "- Appsus is a dual Frontend email and a note keeping app, Includes Apps integration- note can be sent as an email and email can be saved as a note, inspired by Google Keep and Gmail.",
             "links": [
                 {
                     "text": "GitHub",
