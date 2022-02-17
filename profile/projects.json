@@ -110,7 +110,7 @@
         },
         {
             "image" : "images/projects/meme-generator.png",
-            "title": "Meme Generator App",
+            "title": "Meme Generator",
             "bodyText": "- Meme Generator app made in vanilla JavaScript.",
             "links": [
                 {
