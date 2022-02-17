@@ -27,7 +27,7 @@
         {
             "image" : "images/projects/toys.png",
             "title": "ToysAreUs - Toys Shop",
-            "bodyText": "- A Fun application where you can buy toys, write reviews about the toys and even chat with your friends about it \n - Supports Authentication and an Only Admin interface for CRUD actions\n - For Admin experience -> \n\n       username : Admin123 \n       password: 1234",
+            "bodyText": "- A Fun application where you can buy toys, write reviews about them and even chat with your friends about it \n - Supports Authentication and an Only Admin interface for CRUD actions\n - For Admin experience -> \n\n       username : Admin123 \n       password: 1234",
             "links": [
                 {
                     "text": "GitHub",
