@@ -70,6 +70,26 @@
             ]
         },
         {
+            "image" : "images/projects/Weather.png",
+            "title": "MyWeather - Weather App",
+            "bodyText": "- A Weather search app made in React. Search cities weekly weather around the world .\n - Support Dark Mode",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/YardenM2710/Yarden-Mathieson-11-04-22"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yarden-abra-weather-app.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Redux / Redux Toolkit",
+                "AccuWeather API"
+            ]
+        },
+        {
             "image" : "images/projects/mr-bitcoin.png",
             "title": "Mr.Bitcoin - Bitcoin share App",
             "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
