@@ -1,152 +1,100 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/webit.png",
+      "title": "Webit - Create your Dream website in minutes",
+      "bodyText": "- Webit is a Platform for building websites inspired by  WIX\n - Create your own website or use existing templates \n\n -  Got a 'Work Together' feature using Web Sockets  \n\n - Easy to use toolbar for editing",
+      "links": [
         {
-            "image" : "images/projects/webit.png",
-            "title": "Webit - Create your Dream website in minutes",
-            "bodyText": "- Webit is a Platform for building websites inspired by  WIX\n - Create your own website or use existing templates \n\n -  Got a 'Work Together' feature using Web Sockets  \n\n - Easy to use toolbar for editing",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/rotembub/webit"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://ca-webit.herokuapp.com/"
-                }
-            ],
-            "tags" : [
-                "Vue.JS",
-                "VueX",
-                "JavaScript",
-                "NodeJS",
-                "Socket.io",
-                "Mongo.db"
-
-            ]
+          "text": "GitHub",
+          "href": "https://github.com/rotembub/webit"
         },
         {
-            "image" : "images/projects/toys.png",
-            "title": "ToysAreUs - Toys Shop",
-            "bodyText": "- A Fun application where you can buy toys, write reviews about them and even chat with your friends about it \n - Supports Authentication and an Only Admin interface for CRUD actions\n - For Admin experience -> \n\n       username : Admin123 \n       password: 1234",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/ToysAreUs"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://jordies-toys.herokuapp.com/"
-                }
-            ],
-            "tags" : [
-                "Vue.JS",
-                "VueX",
-                "Node.JS",
-                "Express",
-                "Socket.io",
-                "Mongo.db"
-                
-            ]
-        },
-        
-        {
-            "image" : "images/projects/appsus.png",
-            "title": "Appsus - Mail & Notes App",
-            "bodyText": "- Appsus is a dual Frontend email and a note keeping app, Includes Apps integration- note can be sent as an email and email can be saved as a note, inspired by Google Keep and Gmail.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/noanissim/Appsus"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://noanissim.github.io/Appsus/#/"
-                }
-            ],
-            "tags" : [
-                "Vue.JS",
-                "VueX",
-                "Javascript"
-            ]
-        },
-        {
-            "image" : "images/projects/Weather.png",
-            "title": "MyWeather - Weather App",
-            "bodyText": "- A Weather search app made in React. Search cities weekly weather around the world .\n - Support Dark Mode",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/Yarden-Mathieson-11-04-22"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yarden-abra-weather-app.herokuapp.com/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Redux / Redux Toolkit",
-                "AccuWeather API"
-            ]
-        },
-        {
-            "image" : "images/projects/mr-bitcoin.png",
-            "title": "Mr.Bitcoin - Bitcoin share App",
-            "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/mr-bitcoin-react"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yardenm2710.github.io/mr-bitcoin-react/#/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "JavaScript",
-                "ChartJS"
-            ]
-        },
-        {
-            "image" : "images/projects/Loop-Machine.png",
-            "title": "Loop-Machine - Audio Loop application",
-            "bodyText": "- A fun audio loop application that allows you to Jingle-Mingle threw some sounds and even record by yourself",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/Loop-Machine-Moveo"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yardenm2710.github.io/Loop-Machine-Moveo/#/"
-                }
-            ],
-            "tags" : [
-                "React.JS",
-                "Javascript"
-            ]
-        },
-        {
-            "image" : "images/projects/meme-generator.png",
-            "title": "Meme Generator",
-            "bodyText": "- Meme Generator app made in vanilla JavaScript.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/Meme-genrator-sprint2"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yardenm2710.github.io/Meme-genrator-sprint2/#"
-                }
-            ],
-            "tags" : [
-                "JavaScript",
-                "CSS",
-                "Canvas"
-            ]
+          "text": "Live",
+          "href": "https://ca-webit.herokuapp.com/"
         }
-    ]
+      ],
+      "tags": ["Vue.JS", "VueX", "JavaScript", "NodeJS", "Socket.io", "Mongo.db"]
+    },
+    {
+      "image": "images/projects/appsus.png",
+      "title": "Appsus - Mail & Notes App",
+      "bodyText": "- Appsus is a dual Frontend email and a note keeping app, Includes Apps integration- note can be sent as an email and email can be saved as a note, inspired by Google Keep and Gmail.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/noanissim/Appsus"
+        },
+        {
+          "text": "Live",
+          "href": "https://noanissim.github.io/Appsus/#/"
+        }
+      ],
+      "tags": ["Vue.JS", "VueX", "Javascript"]
+    },
+    {
+      "image": "images/projects/Weather.png",
+      "title": "MyWeather - Weather App",
+      "bodyText": "- A Weather search app made in React. Search cities weekly weather around the world .\n - Support Dark Mode",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/Yarden-Mathieson-11-04-22"
+        },
+        {
+          "text": "Live",
+          "href": "https://yarden-abra-weather-app.herokuapp.com/"
+        }
+      ],
+      "tags": ["React", "Redux / Redux Toolkit", "AccuWeather API"]
+    },
+    {
+      "image": "images/projects/mr-bitcoin.png",
+      "title": "Mr.Bitcoin - Bitcoin share App",
+      "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/mr-bitcoin-react"
+        },
+        {
+          "text": "Live",
+          "href": "https://yardenm2710.github.io/mr-bitcoin-react/#/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "ChartJS"]
+    },
+    {
+      "image": "images/projects/Loop-Machine.png",
+      "title": "Loop-Machine - Audio Loop application",
+      "bodyText": "- A fun audio loop application that allows you to Jingle-Mingle threw some sounds and even record by yourself",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/Loop-Machine-Moveo"
+        },
+        {
+          "text": "Live",
+          "href": "https://yardenm2710.github.io/Loop-Machine-Moveo/#/"
+        }
+      ],
+      "tags": ["React.JS", "Javascript"]
+    },
+    {
+      "image": "images/projects/meme-generator.png",
+      "title": "Meme Generator",
+      "bodyText": "- Meme Generator app made in vanilla JavaScript.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/Meme-genrator-sprint2"
+        },
+        {
+          "text": "Live",
+          "href": "https://yardenm2710.github.io/Meme-genrator-sprint2/#"
+        }
+      ],
+      "tags": ["JavaScript", "CSS", "Canvas"]
+    }
+  ]
 }
