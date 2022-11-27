@@ -1,84 +1,100 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/webit.png",
+      "title": "Webit - Create your Dream website in minutes",
+      "bodyText": "- Webit is a Platform for building websites inspired by  WIX\n - Create your own website or use existing templates \n\n -  Got a 'Work Together' feature using Web Sockets  \n\n - Easy to use toolbar for editing",
+      "links": [
         {
-            "image" : "images/projects/webit.png",
-            "title": "Webit - Platform for building websites",
-            "bodyText": "- Webit, Website inspired by  WIX, made in Vue.JS\n - Create your own website within minutes with fun features as Web Sockets and D&D",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/rotembub/webit"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://ca-webit.herokuapp.com/"
-                }
-            ],
-            "tags" : [
-                "Vue.JS",
-                "WIX",
-                "JavaScript",
-                "NodeJS"
-            ]
+          "text": "GitHub",
+          "href": "https://github.com/rotembub/webit"
         },
         {
-            "image" : "images/projects/mr-bitcoin.png",
-            "title": "Mr.Bitcoin - Bitcoin share App",
-            "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/mr-bitcoin-react"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yardenm2710.github.io/mr-bitcoin-react/#/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "JavaScript",
-                "ChartJS"
-            ]
-        },
-        {
-            "image" : "images/projects/appsus.png",
-            "title": "Appsus - Mail & Notes App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/noanissim/Appsus"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://noanissim.github.io/Appsus/#/keep"
-                }
-            ],
-            "tags" : [
-                "Vue.JS",
-                "Javascript"
-            ]
-        },
-        {
-            "image" : "images/projects/meme-generator.png",
-            "title": "Meme Generator App",
-            "bodyText": "- Meme Generator app made in vanilla JavaScript.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/YardenM2710/Meme-genrator-sprint2"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yardenm2710.github.io/Meme-genrator-sprint2/#"
-                }
-            ],
-            "tags" : [
-                "JavaScript",
-                "CSS",
-                "Canvas"
-            ]
+          "text": "Live",
+          "href": "https://webit.onrender.com/"
         }
-    ]
+      ],
+      "tags": ["Vue.JS", "VueX", "JavaScript", "NodeJS", "Socket.io", "Mongo.db"]
+    },
+    {
+      "image": "images/projects/appsus.png",
+      "title": "Appsus - Mail & Notes App",
+      "bodyText": "- Appsus is a dual Frontend email and a note keeping app, Includes Apps integration- note can be sent as an email and email can be saved as a note, inspired by Google Keep and Gmail.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/noanissim/Appsus"
+        },
+        {
+          "text": "Live",
+          "href": "https://noanissim.github.io/Appsus/#/"
+        }
+      ],
+      "tags": ["Vue.JS", "VueX", "Javascript"]
+    },
+    {
+      "image": "images/projects/Weather.png",
+      "title": "MyWeather - Weather App",
+      "bodyText": "- A Weather search app made in React. Search cities weekly weather around the world .\n - Support Dark Mode",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/Yarden-Mathieson-11-04-22"
+        },
+        {
+          "text": "Live",
+          "href": "https://myweather-r36s.onrender.com/"
+        }
+      ],
+      "tags": ["React", "Redux / Redux Toolkit", "AccuWeather API"]
+    },
+    {
+      "image": "images/projects/mr-bitcoin.png",
+      "title": "Mr.Bitcoin - Bitcoin share App",
+      "bodyText": "- A Bitcoin Sharing app made in React. People can send bitcoin to other contacts while checking the current BTC Rate .\n - Support Dark Mode",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/mr-bitcoin-react"
+        },
+        {
+          "text": "Live",
+          "href": "https://yardenm2710.github.io/mr-bitcoin-react/#/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "ChartJS"]
+    },
+    {
+      "image": "images/projects/Loop-Machine.png",
+      "title": "Loop-Machine - Audio Loop application",
+      "bodyText": "- A fun audio loop application that allows you to Jingle-Mingle threw some sounds and even record by yourself",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/Loop-Machine-Moveo"
+        },
+        {
+          "text": "Live",
+          "href": "https://yardenm2710.github.io/Loop-Machine-Moveo/#/"
+        }
+      ],
+      "tags": ["React.JS", "Javascript"]
+    },
+    {
+      "image": "images/projects/meme-generator.png",
+      "title": "Meme Generator",
+      "bodyText": "- Meme Generator app made in vanilla JavaScript.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/YardenM2710/Meme-genrator-sprint2"
+        },
+        {
+          "text": "Live",
+          "href": "https://yardenm2710.github.io/Meme-genrator-sprint2/#"
+        }
+      ],
+      "tags": ["JavaScript", "CSS", "Canvas"]
+    }
+  ]
 }

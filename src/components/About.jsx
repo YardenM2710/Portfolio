@@ -53,7 +53,7 @@ function About(props) {
                 <Col style={styles.introImageContainer}>
                   <img
                     className="about-img"
-                    src={data?.imageSource}
+                    src={window.location.pathname + data?.imageSource}
                     alt="profile"
                   />
                 </Col>

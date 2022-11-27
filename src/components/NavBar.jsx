@@ -1,6 +1,6 @@
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import React, { useEffect, useState, useContext } from 'react';
-import { withRouter } from 'react-router';
+import { useHistory, withRouter } from 'react-router';
 import { NavLink } from 'react-router-dom';
 import styled, { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
@@ -40,7 +40,11 @@ const NavBar = () => {
   const theme = useContext(ThemeContext);
   const [data, setData] = useState(null);
   const [expanded, setExpanded] = useState(false);
-
+  const history = useHistory();
+  function changeMode() {
+    setExpanded(false);
+    history.push('/');
+  }
   useEffect(() => {
     fetch(endpoints.navbar, {
       method: 'GET',
@@ -61,9 +65,9 @@ const NavBar = () => {
     >
       <Container>
         {data?.logo && (
-          <Navbar.Brand href="/">
+          <Navbar.Brand>
             <img
-              src={data?.logo?.source}
+              src={window.location.pathname + data?.logo?.source}
               className="d-inline-block align-top"
               alt="main logo"
               style={
@@ -110,7 +114,7 @@ const NavBar = () => {
                 )
               )}
           </Nav>
-          <ThemeToggler onClick={() => setExpanded(false)} />
+          <ThemeToggler onClick={() => changeMode()} />
         </Navbar.Collapse>
       </Container>
     </Navbar>

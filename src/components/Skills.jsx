@@ -54,7 +54,7 @@ function Skills(props) {
                     <div key={item.title} style={{ display: 'inline-block' }}>
                       <img
                         style={styles.iconStyle}
-                        src={item.icon}
+                        src={window.location.pathname + item.icon}
                         alt={item.title}
                       />
                       <p>{item.title}</p>
@@ -65,7 +65,9 @@ function Skills(props) {
             </Container>
           </div>
         </Fade>
-      ) : <FallbackSpinner /> }
+      ) : (
+        <FallbackSpinner />
+      )}
     </>
   );
 }
