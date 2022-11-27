@@ -11,7 +11,7 @@
         },
         {
           "text": "Live",
-          "href": "https://ca-webit.herokuapp.com/"
+          "href": "https://webit.onrender.com/"
         }
       ],
       "tags": ["Vue.JS", "VueX", "JavaScript", "NodeJS", "Socket.io", "Mongo.db"]
@@ -43,7 +43,7 @@
         },
         {
           "text": "Live",
-          "href": "https://yarden-abra-weather-app.herokuapp.com/"
+          "href": "https://myweather-r36s.onrender.com/"
         }
       ],
       "tags": ["React", "Redux / Redux Toolkit", "AccuWeather API"]
